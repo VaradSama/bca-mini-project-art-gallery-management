@@ -1,2 +1,22 @@
-# bca-mini-project-art-gallery-management
-Art Gallery Management System developed as an BCA Mini Project to manage artworks, artists, exhibitions, and gallery records.
+# Art Gallery Management System
+
+This project was developed as an BCA Mini Project.
+
+## Description
+The system helps manage artworks, artists, and exhibitions in an art gallery.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+
+## Features
+- Manage artworks
+- Artist information
+- Exhibition records
+- Gallery inventory
+
+## Author
+Varad Gadekar
